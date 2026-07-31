@@ -1,4 +1,4 @@
-# GTFS – Łódź Suburban
+# GTFS Łódź Suburban
 
 **`gtfs-lodz-suburban.zip`**
 
@@ -82,3 +82,4 @@ E-mail: **[qbx.timetables@gmail.com](mailto:qbx.timetables@gmail.com)**
 ### Disclaimer
 
 **QBX Timetables is an independent, unofficial project and is not affiliated with, operated by, or endorsed by any transport operator or public transport authority whose services may be represented in the data.**
+nt, unofficial project and is not affiliated with, operated by, or endorsed by any transport operator or public transport authority whose services may be represented in the data.**
