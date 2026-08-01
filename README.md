@@ -15,6 +15,13 @@ Zakres projektu obejmuje w szczególności połączenia pomiędzy Łodzią a oko
 
 Projekt ma charakter **nieoficjalny i hobbystyczny**. Autor nie jest przewoźnikiem ani organizatorem przewozów.
 
+## Zakres danych
+
+Projekt jest rozwijany stopniowo. W pierwszej wersji obejmuje połączenia na linii Łódź-Tuszyn. 
+
+W przyszłości zakres może zostać rozszerzony o inne miejscowości i połączenia regionalne związane z Łodzią.
+Lista miejscowości i linii nie jest zamknięta i będzie zmieniać się wraz z rozwojem projektu. Historię zmian określa plik `CHANGELOG`.
+
 ## Źródła danych
 
 Dane zawarte w tym repozytorium są **opracowaniem własnym na podstawie publicznie dostępnych informacji o rozkładach jazdy**.
@@ -28,24 +35,6 @@ Dane zawarte w tym repozytorium są **opracowaniem własnym na podstawie publicz
 
 Informacje te są przetwarzane i porządkowane do postaci danych zgodnych ze specyfikacją **GTFS Schedule**, umożliwiających ich maszynowe odczytywanie i wykorzystywanie przez oprogramowanie oraz aplikacje transportowe.
 
-## Zakres danych
-
-Projekt jest rozwijany stopniowo. W pierwszej wersji obejmuje połączenia na linii Łódź-Tuszyn. 
-
-W przyszłości zakres może zostać rozszerzony o inne miejscowości i połączenia regionalne związane z Łodzią.
-Lista miejscowości i linii nie jest zamknięta i będzie zmieniać się wraz z rozwojem projektu. Historię zmian określa plik `CHANGELOG`.
-
-## Stabilny adres feedu
-
-Najnowsza wersja feedu GTFS jest zawsze dostępna pod poniższym adresem:
-
-https://raw.githubusercontent.com/qbx-tt/gtfs-lodz-suburban/main/gtfs-lodz-suburban.zip
-
-Adres ten pozostaje niezmienny pomimo kolejnych aktualizacji danych i może być wykorzystywany przez aplikacje oraz serwisy automatycznie pobierające feed GTFS.
-
-**Repozytorium projektu:** 
-https://github.com/qbx-tt/gtfs-lodz-suburban
-
 ## Aktualizacja danych
 
 Dane mogą być aktualizowane w przypadku:
@@ -57,6 +46,19 @@ Dane mogą być aktualizowane w przypadku:
 
 Wersja danych oraz okres ich obowiązywania są określane wewnątrz pliku GTFS.
 
+## Status projektu
+
+Projekt jest aktywnie rozwijany.
+
+Aktualny zakres:
+- komunikacja podmiejska wokół Łodzi,
+- przygotowanie danych w formacie GTFS Schedule,
+- publiczne wydania na GitHub.
+
+Planowane:
+- rozszerzenie zasięgu na kolejne linie podmiejskie oraz regionalne z okolic Łodzi,
+- rozbudowa danych poprzez dodanie shapes.txt.
+
 ## Ważne informacje
 
 Dane zawarte w tym repozytorium **nie są oficjalnym źródłem informacji o rozkładach jazdy**.
@@ -67,6 +69,17 @@ W przypadku rozbieżności pomiędzy danymi zawartymi w tym repozytorium a aktua
 
 Jeżeli zauważysz błąd, nieaktualne dane lub inną rozbieżność, prosimy o zgłoszenie tego faktu:
 **E-mail:** [qbx.timetables@gmail.com](mailto:qbx.timetables@gmail.com)
+
+## Stabilny adres feedu
+
+Najnowsza wersja feedu GTFS jest zawsze dostępna pod poniższym adresem:
+
+https://raw.githubusercontent.com/qbx-tt/gtfs-lodz-suburban/main/gtfs-lodz-suburban.zip
+
+Adres ten pozostaje niezmienny pomimo kolejnych aktualizacji danych i może być wykorzystywany przez aplikacje oraz serwisy automatycznie pobierające feed GTFS.
+
+**Repozytorium projektu:** 
+https://github.com/qbx-tt/gtfs-lodz-suburban
 
 ## Licencja
 
