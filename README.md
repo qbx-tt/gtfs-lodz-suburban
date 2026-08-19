@@ -98,4 +98,6 @@ E-mail: **[qbx.timetables@gmail.com](mailto:qbx.timetables@gmail.com)**
 
 ### Disclaimer
 
-**QBX Timetables is an independent, unofficial project and is not affiliated with, operated by, or endorsed by any transport operator or public transport authority whose services may be represented in the data.**
+**QBX Timetables is an independent, unofficial project of Łódź Suburban & Regional transport and is not affiliated with, operated by, or endorsed by any transport operator or public transport authority whose services may be represented in the data.**
+
+**The feed covers suburban bus routes around Łódź and is maintained as an independent community GTFS feed based on publicly available timetable data.**
