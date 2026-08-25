@@ -67,8 +67,7 @@ Pomimo dokładania starań w celu zachowania zgodności z oficjalnie publikowany
 
 W przypadku rozbieżności pomiędzy danymi zawartymi w tym repozytorium a aktualnym oficjalnym rozkładem jazdy **wiążący jest zawsze rozkład opublikowany przez właściwego przewoźnika lub organizatora przewozów**.
 
-Jeżeli zauważysz błąd, nieaktualne dane lub inną rozbieżność, prosimy o zgłoszenie tego faktu:
-**E-mail:** [qbx.timetables@gmail.com](mailto:qbx.timetables@gmail.com)
+Jeżeli zauważysz błąd, nieaktualne dane lub inną rozbieżność, prosimy o zgłoszenie tego faktu na adres e-mail: [qbx.timetables@gmail.com](mailto:qbx.timetables@gmail.com)
 
 ## Stabilny adres feedu
 
@@ -91,8 +90,7 @@ Należy pamiętać, że niniejszy projekt stanowi opracowanie danych pochodzący
 
 W sprawach dotyczących danych, zgłaszania błędów oraz propozycji uzupełnienia feedu:
 
-**QBX Timetables**
-E-mail: **[qbx.timetables@gmail.com](mailto:qbx.timetables@gmail.com)**
+**QBX Timetables** - e-mail: **[qbx.timetables@gmail.com](mailto:qbx.timetables@gmail.com)**
 
 ---
 
