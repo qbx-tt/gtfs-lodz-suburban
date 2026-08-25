@@ -1,6 +1,6 @@
 # GTFS Łódź Suburban
 
-**[ENG} Unofficial GTFS Schedule feed for suburban and regional bus services around Łódź, Poland.**
+**[ENG] Unofficial GTFS Schedule feed for suburban and regional bus services around Łódź, Poland.**
 
 ## Aktualny feed GTFS Łódź Suburban
 
