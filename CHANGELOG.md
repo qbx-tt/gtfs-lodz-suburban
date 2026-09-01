@@ -10,28 +10,38 @@ W tym pliku opisywane są wszystkie istotne zmiany w projekcie.
 
 ---
 
-<details>
-<summary>🚌 Aktualna lista linii w projekcie</summary>
+🚌 **Aktualna lista linii w projekcie**
 
-| Linia | Trasa |
-|---|---|
-| Łódź – Tuszyn | przez: Starową Górę, Rzgów (w wybranych kursach przez Tuszyn Szpital) |
-| Łódź – Rzgów | przez: Starową Górę, Grodzisko |
-| Rzgów - Romanów | przez: Huta Wiskicka, Kalino (w wybranych kursach przez Grodzisko) |
-| Rzgów - Czyżeminek | przez: Gospodarz, Guzew, Prawda |
-
-</details>
+| L.p. | Linia | Trasa |
+|---|---|---|
+| 1. | Tuszyn - Łódź | przez: Rzgów, Starowa Góra (w wybranych kursach przez Tuszyn Szpital) |
+| 2. | Rzgów - Łódź | przez: Grodzisko, Starowa Góra |
+| 3. | Rzgów - Romanów | przez: Huta Wiskicka, Kalino (w wybranych kursach przez Grodzisko) |
+| 4. | Rzgów - Czyżeminek | przez: Gospodarz, Guzew, Prawda |
+| 5. | Kotliny - Łódź | przez: Kurowice, Brójce, Wola Rakowa |
+| 6. | Będków - Łódź | przez: Biskupia Wola, Czarnocin, Brójce, Wola Rakowa |
 
 ---
 
 ### Historia wersji feedu:
 
 <details>
+<summary><strong>ver. 202609_001 (2026-09-01)</strong></summary>
+
+**Dodano nowe linie:**
+
+- linię Kotliny - Łódź,
+- linię Będków - Łódź.
+
+Łączna liczba linii w projekcie: 6
+</details>
+
+<details>
 <summary><strong>ver. 202608_002 (2026-08-25)</strong></summary>
 
 **Dodano nowe linie:**
 
-- linię Łódź – Rzgów,
+- linię Rzgów - Łódź,
 - linię Rzgów - Romanów,
 - linię Rzgów - Czyżeminek.
 
@@ -44,7 +54,7 @@ W tym pliku opisywane są wszystkie istotne zmiany w projekcie.
 **Dodano:**
 
 - pierwszą publiczną wersję feedu GTFS,
-- linię Łódź – Tuszyn.
+- linię Tuszyn - Łódź.
 
 Łączna liczba linii w projekcie: 1
 </details>
