@@ -26,6 +26,19 @@ W tym pliku opisywane są wszystkie istotne zmiany w projekcie.
 ### Historia wersji feedu:
 
 <details>
+<summary><strong>ver. 202609_002 (2026-09-08)</strong></summary>
+
+**Zaktualizowano rozkłady jazdy linii:**
+
+- linię Tuszyn - Łódź,
+- linię Łódź - Łódź.
+
+Z uwagi na remont ul. Broniewskiego w Łodzi przystankiem początkowym i końcowym dla linii Tuszyn-Łódź oraz Rzgów-Łódź jest przystanek Rzgowska/Dachowa. W związku z tym zaktualizowano rozkład jazdy, poprzez usunięcie przystanków z Broniewskiego.
+
+Łączna liczba linii w projekcie: 6
+</details>
+
+<details>
 <summary><strong>ver. 202609_001 (2026-09-01)</strong></summary>
 
 **Dodano nowe linie:**
