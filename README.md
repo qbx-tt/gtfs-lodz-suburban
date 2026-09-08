@@ -17,7 +17,7 @@ Projekt ma charakter **nieoficjalny i hobbystyczny**. Autor nie jest przewoźnik
 
 ## Zakres danych
 
-Projekt jest rozwijany stopniowo. W pierwszej wersji obejmuje połączenia na linii Łódź-Tuszyn. 
+Projekt jest rozwijany stopniowo. W pierwszej wersji feed zawierał informacje tylko o jednej linii: Tuszyn-Łódź. Obecnie projekt obejmuje już kilka linii.
 
 W przyszłości zakres może zostać rozszerzony o inne miejscowości i połączenia regionalne związane z Łodzią.
 Lista miejscowości i linii nie jest zamknięta i będzie zmieniać się wraz z rozwojem projektu. Historię zmian określa plik `CHANGELOG`.
