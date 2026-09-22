@@ -20,10 +20,23 @@ W tym pliku opisywane są wszystkie istotne zmiany w projekcie.
 | 4. | Rzgów - Czyżeminek | przez: Gospodarz, Guzew, Prawda |
 | 5. | Kotliny - Łódź | przez: Kurowice, Brójce, Wola Rakowa |
 | 6. | Będków - Łódź | przez: Biskupia Wola, Czarnocin, Brójce, Wola Rakowa |
+| 7. | Koluszki - Łódź | przez: Żakowice, Gałków Duży, Justynów, Andrespol (w wybranych kursach przez Borową |
+| 8. | Głowno - Łódź | przez: Bratoszewice, Stryków, Dobrą |
 
 ---
 
 ### Historia wersji feedu:
+
+<details>
+<summary><strong>ver. 202609_003 (2026-09-22)</strong></summary>
+
+**Dodano nowe linie:**
+
+- linię Koluszki - Łódź,
+- linię Głowno - Łódź.
+
+Łączna liczba linii w projekcie: 8
+</details>
 
 <details>
 <summary><strong>ver. 202609_002 (2026-09-08)</strong></summary>
