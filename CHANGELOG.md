@@ -28,6 +28,16 @@ W tym pliku opisywane są wszystkie istotne zmiany w projekcie.
 ### Historia wersji feedu:
 
 <details>
+<summary><strong>ver. 202610_001 (2026-10-06)</strong></summary>
+
+**Korekty danych wynikające z weryfikacji zgodności feeda z rozkładami źródłowymi.**
+
+Aktualizacja obejmuje doprecyzowanie i ujednolicenie wybranych danych w feedzie na podstawie ponownej weryfikacji z materiałami źródłowymi. Nie dodano żadnej nowej linii.
+
+Łączna liczba linii w projekcie: 8
+</details>
+
+<details>
 <summary><strong>ver. 202609_003 (2026-09-22)</strong></summary>
 
 **Dodano nowe linie:**
