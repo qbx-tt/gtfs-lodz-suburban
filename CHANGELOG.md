@@ -20,12 +20,27 @@ W tym pliku opisywane są wszystkie istotne zmiany w projekcie.
 | 4. | Rzgów - Czyżeminek | przez: Gospodarz, Guzew, Prawda |
 | 5. | Kotliny - Łódź | przez: Kurowice, Brójce, Wola Rakowa |
 | 6. | Będków - Łódź | przez: Biskupia Wola, Czarnocin, Brójce, Wola Rakowa |
-| 7. | Koluszki - Łódź | przez: Żakowice, Gałków Duży, Justynów, Andrespol (w wybranych kursach przez Borową |
+| 7. | Koluszki - Łódź | przez: Żakowice, Gałków Duży, Justynów, Andrespol (w wybranych kursach przez Borową) |
 | 8. | Głowno - Łódź | przez: Bratoszewice, Stryków, Dobrą |
+| 9. | Mianów - Łódź | przez: Puczniew, Lutomiersk, Kazimierz, Konstantynów Łódzki (w wybranych kursach przez Charbice lub Czołczyn) |
+| 10. | Lutomiersk - Konstantynów Łódzki | przez: Kazimierz, Stanisławów Stary, Babice, Babiczki |
+| 11. | Lutomiersk - Konstantynów Łódzki | przez: Prusinowiczki, Prusinowice, Bechcice, Florentynów |
 
 ---
 
 ### Historia wersji feedu:
+
+<details>
+<summary><strong>ver. 202610_002 (2026-10-13)</strong></summary>
+
+**Dodano nowe linie:**
+
+- linię Mianów - Łódź,
+- linię Lutomiersk - Konstantynów Łódzki przez Babiczki,
+- linię Lutomiersk - Konstantynów Łódzki przez Prusinowice.
+
+Łączna liczba linii w projekcie: 11
+</details>
 
 <details>
 <summary><strong>ver. 202610_001 (2026-10-06)</strong></summary>
