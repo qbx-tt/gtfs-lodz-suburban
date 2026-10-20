@@ -25,10 +25,23 @@ W tym pliku opisywane są wszystkie istotne zmiany w projekcie.
 | 9. | Mianów - Łódź | przez: Puczniew, Lutomiersk, Kazimierz, Konstantynów Łódzki (w wybranych kursach przez Charbice lub Czołczyn) |
 | 10. | Lutomiersk - Konstantynów Łódzki | przez: Kazimierz, Stanisławów Stary, Babice, Babiczki |
 | 11. | Lutomiersk - Konstantynów Łódzki | przez: Prusinowiczki, Prusinowice, Bechcice, Florentynów |
+| 12. | Koluszki - Brzeziny | przez: Bogdankę, Zalesie |
+| 13. | Piotrków Trybunalski - Łódź | przez: Tuszyn, Głuchów, Srock |
 
 ---
 
 ### Historia wersji feedu:
+
+<details>
+<summary><strong>ver. 202610_003 (2026-10-20)</strong></summary>
+
+**Dodano nowe linie:**
+
+- linię Koluszki - Brzeziny,
+- linię Piotrków Trybunalski - Łódź.
+
+Łączna liczba linii w projekcie: 13
+</details>
 
 <details>
 <summary><strong>ver. 202610_002 (2026-10-13)</strong></summary>
