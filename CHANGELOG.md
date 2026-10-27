@@ -33,6 +33,16 @@ W tym pliku opisywane są wszystkie istotne zmiany w projekcie.
 ### Historia wersji feedu:
 
 <details>
+<summary><strong>ver. 202610_004 (2026-10-27)</strong></summary>
+
+**Korekty danych wynikające z weryfikacji zgodności feeda z rozkładami źródłowymi.**
+
+Aktualizacja obejmuje skorygowanie nazw i współrzędnych geograficznych przystanków w pliku `stops.txt`. Nie dodano żadnej nowej linii.
+
+Łączna liczba linii w projekcie: 13
+</details>
+
+<details>
 <summary><strong>ver. 202610_003 (2026-10-20)</strong></summary>
 
 **Dodano nowe linie:**
