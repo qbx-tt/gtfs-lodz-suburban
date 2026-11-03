@@ -27,10 +27,26 @@ W tym pliku opisywane są wszystkie istotne zmiany w projekcie.
 | 11. | Lutomiersk - Konstantynów Łódzki | przez: Prusinowiczki, Prusinowice, Bechcice, Florentynów |
 | 12. | Koluszki - Brzeziny | przez: Bogdankę, Zalesie |
 | 13. | Piotrków Trybunalski - Łódź | przez: Tuszyn, Głuchów, Srock |
+| 14. | Pabianice - Konstantynów Łódzki | przez: Górkę Pabianicką, Porszewice |
+| 15. | Pabianice - Lutomiersk | przez: Kudrowice, Żytowice, Janowice |
+| 16. | Pabianice - Rydzyny | przez: Władysławów, Pawlikowice |
+
 
 ---
 
 ### Historia wersji feedu:
+
+<details>
+<summary><strong>ver. 202611_001 (2026-11-03)</strong></summary>
+
+**Dodano nowe linie:**
+
+- linię Pabianice - Konstantynów Łódzki,
+- linię Pabianice - Lutomiersk,
+- linię Pabianice - Rydzyny.
+
+Łączna liczba linii w projekcie: 16
+</details>
 
 <details>
 <summary><strong>ver. 202610_004 (2026-10-27)</strong></summary>
