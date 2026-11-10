@@ -30,11 +30,26 @@ W tym pliku opisywane są wszystkie istotne zmiany w projekcie.
 | 14. | Pabianice - Konstantynów Łódzki | przez: Górkę Pabianicką, Porszewice |
 | 15. | Pabianice - Lutomiersk | przez: Kudrowice, Żytowice, Janowice |
 | 16. | Pabianice - Rydzyny | przez: Władysławów, Pawlikowice |
-
+| 17. | Łęczyca - Łódź | przez: Ozorków, Zgierz  (🚍 *Dynamic Travel* ) |
+| 18. | Łęczyca - Łódź | przez: Ozorków, Zgierz  (🚍 *Wicher Travel* ) |
 
 ---
 
 ### Historia wersji feedu:
+
+<details>
+<summary><strong>ver. 202611_002 (2026-11-10)</strong></summary>
+
+**Dodano nowe linie:**
+
+- linię Łęczyca - Łódź (przewoźnik: Dynamic Travel),
+- linię Łęczyca - Łódź (przewoźnik: Wicher Travel).
+
+**Zaktualizowano linie:**
+- linię Piotrków Trybunalski - Łódź (przewoźnik: Mix-Trans, w związku ze zmianą rozkładu jazdy).
+
+Łączna liczba linii w projekcie: 18
+</details>
 
 <details>
 <summary><strong>ver. 202611_001 (2026-11-03)</strong></summary>
