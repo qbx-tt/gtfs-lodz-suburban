@@ -46,7 +46,8 @@ W tym pliku opisywane są wszystkie istotne zmiany w projekcie.
 - linię Łęczyca - Łódź (przewoźnik: Wicher Travel).
 
 **Zaktualizowano linie:**
-- linię Piotrków Trybunalski - Łódź (przewoźnik: Mix-Trans, w związku ze zmianą rozkładu jazdy).
+- linię Piotrków Trybunalski - Łódź (w związku ze zmianą rozkładu jazdy),
+- linie Tuszyn - Łódź; Rzgów - Łódź; Rzgów - Czyżeminek (w związku ze zmianą trasy w Rzgowie).
 
 Łączna liczba linii w projekcie: 18
 </details>
